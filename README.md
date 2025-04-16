@@ -1,2 +1,5 @@
 # Draco-Daemon
-Draco-Daemon used to create node in Draco-Panel
+
+**Install** - `bash <(curl -s https://raw.githubusercontent.com/HimanshuPlayz/Draco-Daemon/main/setup.sh)`
+
+Credits - THUNDER / HOPINGBOYS
